@@ -1,6 +1,6 @@
 <div align="center">  
 
-<h1> Gerador de Notícias - Youtube Summarizer </h1>
+<h1> Gerador de Resumos - Youtube Summarizer </h1>
 
 ![Python](https://img.shields.io/badge/-Python-1e272e?style=for-the-badge&logo=python)&nbsp;
 </div>
